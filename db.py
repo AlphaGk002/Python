@@ -1,5 +1,3 @@
-from email import header
-from wsgiref import headers
 from tabulate import tabulate
 import sqlite3
 con = sqlite3.connect('user.db')
