@@ -1,2 +1,2 @@
 # Python
-SQLite Database Database Connectivity in Python
+SQLite Database Connectivity in Python
